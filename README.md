@@ -27,4 +27,4 @@ This folder contains a file named input_example.txt wich has text in japanese th
 
 ## Author
 
-Sergi Perez
+Sergi Pérez
